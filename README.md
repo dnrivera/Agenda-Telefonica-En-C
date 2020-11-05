@@ -1,2 +1,2 @@
 # Agenda-Telefonica-En-C
-Proyecto Agenda Telefonica
+Repositorio de reserva para el trabajo final de Algoritmo y Estructura de Datos.
